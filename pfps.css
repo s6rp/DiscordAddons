@@ -1,0 +1,16 @@
+/* Profile pics */ 
+.avatar-6qzftW .wrapper-1VLyxH, .headerAvatar-GgCKcl, .avatar-1HDIsL .wrapper-1VLyxH, .avatar-2MSPKk.wrapper-1VLyxH, .avatar-6qzftW .avatar-b5OQ1N, .avatar-2e8lTP, .avatar-1HDIsL .avatar-b5OQ1N, .avatar-2MSPKk .avatar-b5OQ1N {
+  border-radius: 10px;
+}
+
+.avatar-6qzftW  foreignObject, .avatar-1HDIsL  foreignObject, .avatar-2MSPKk foreignObject {
+     mask: none;
+}
+
+.replyAvatar-sHd2sU { 
+border-radius: 4px;
+}
+
+/* ------------------ */ 
+
+
