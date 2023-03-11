@@ -1,6 +1,7 @@
 #vc-spotify-player {
     font-family: 'Noto Sans';
-    border-bottom: 0px solid var(--background-modifier-accent);    margin: 7px;
+    border-bottom: 0px solid var(--background-modifier-accent);    
+    margin: 7px;
     border-radius: 10px;
 }
 
