@@ -1,0 +1,19 @@
+#vc-spotify-player {
+    font-family: 'Noto Sans';
+    border-bottom: transparent;
+    margin: 7px;
+    border-radius: 10px;
+}
+
+#vc-spotify-album-image {
+    box-shadow: 0 0 3px black;
+    border-radius: 8px;
+}
+
+#vc-spotify-song-title {
+    margin: 1px;
+}
+
+.panels-3wFtMD {
+    border-radius: 15px;
+}
