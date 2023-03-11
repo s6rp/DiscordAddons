@@ -1,13 +1,12 @@
 #vc-spotify-player {
     font-family: 'Noto Sans';
-    border-bottom: transparent;
+    border-bottom: transparent!important;
     margin: 7px;
     border-radius: 10px;
 }
 
 #vc-spotify-album-image {
-    box-shadow: 0 0 3px black;
-    border-radius: 8px;
+    border-radius: 5px;
 }
 
 #vc-spotify-song-title {
